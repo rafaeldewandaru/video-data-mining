@@ -15,5 +15,5 @@ models/
 data/yolo_dataset/
 
 # Inference outputs
-data/output/
+data/output/*
 notebooks/yolov8s.pt
