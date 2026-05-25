@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+Pillow
+ultralytics
+scipy
+imageio[ffmpeg]
+gdown
+ipykernel
+jax-metal
+jax
+jaxlib

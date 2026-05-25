@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/__MACOSX/
+notebooks/runs
+
+# Placeholder directories for image frames (download via notebook)
+data/Vid_A_ball/*.jpg
+data/Vid_B_cup/*.jpg
+data/Vid_C_mixed/*.jpg
+
+# YOLO training artefacts
+models/
+data/yolo_dataset/
+
+# Inference outputs
+data/output/
+notebooks/yolov8s.pt
